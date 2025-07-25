@@ -22,6 +22,9 @@ Before finding my passion for computer science, I studied electronic engineering
 - `Agile Methodologies`
 - `Traditional Methodologies`
 
+### 🧠 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterxDual&layout=compact&theme=github_dark)
 
 
 
