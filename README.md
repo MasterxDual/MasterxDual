@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**MasterxDual/MasterxDual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Agustin! 👋
+Welcome to my profile. I'm currently developing university projects. They're not that big of a deal, but I'm slowly but surely consolidating my knowledge.
 
-Here are some ideas to get you started:
+If you want to know more about what I developed or have any questions or suggestions, don't hesitate to contact me through my LinkedIn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm an advanced software engineering student at the Aeronautical University Institute. I'm currently in my fourth year. 
+
+I love studying and gaining knowledge in technology. It's my number one passion. 
+Initially, I'm looking for an internship to help me solidify my development knowledge, and if possible, later on, I'll be able to gain experience leading development teams.
+
+Before finding my passion for computer science, I studied electronic engineering for three years. I put in a lot of effort, but when I realized I couldn't see myself working in that field, I decided to embark on my current path. I eventually found the motivation and discipline necessary to move forward.
+
+## 🛠 Skills
+- `HTML 5`, `CSS 3`, `Javascript` 
+- `NodeJS`, `ExpressJS`, `Sequelize` 
+- `Bootstrap`
+- `Jetpack Compose with Kotlin`
+- `C++`
+- `PostgreSQL`, `SQL`
+- `Agile Methodologies`
+- `Traditional Methodologies`
+
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agust%C3%ADn-brambilla/)
+
+
+## Activity
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MasterxDual&theme=microsoft-dark&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+
