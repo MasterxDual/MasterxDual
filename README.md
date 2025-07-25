@@ -22,11 +22,8 @@ Before finding my passion for computer science, I studied electronic engineering
 - `Agile Methodologies`
 - `Traditional Methodologies`
 
-### 🧠 Lenguajes más usados
-
+### Knowledge 🧠   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterxDual&layout=compact&theme=github_dark)
-
-
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agust%C3%ADn-brambilla/)
