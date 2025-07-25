@@ -31,6 +31,6 @@ Before finding my passion for computer science, I studied electronic engineering
 
 ## Activity
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MasterxDual&theme=microsoft-dark&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MasterxDual&theme=github-dark)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MasterxDual&theme=github-dark)
 
 
